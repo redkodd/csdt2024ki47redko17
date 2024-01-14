@@ -10,7 +10,7 @@ The point of this course is to create a simple game using hardware and software.
 ### Student
 | Number | Student | Task | Config format|
 | ------ | ------- | ---- | ------------ |
-| 13 | Kryvyi Dmytro | tic-tac-toe (unlimited board) | XML |
+| 17 | Redko Bogdan | tic-tac-toe (unlimited board) | JSON |
 
 ## Project details
 ![Communication schema drawing](https://github.com/dimoybiyca/csdt2024ki49kryvyidmytro13/blob/feature/develop/task3/media/Communication_Schema.jpg?raw=true)
